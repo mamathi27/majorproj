@@ -1,0 +1,37 @@
+
+    
+    
+
+span{
+    text-align: left;
+}
+a{
+    color: #00D9FF;
+}
+#logo{
+    height:50%;
+    width: 175px;
+    padding: auto;
+    border-radius: 50%;
+    border-color: red;
+}
+.bg{
+    width:100rem;
+    padding:0%;
+    
+    
+}
+body {
+    background-color: #121212;
+    color: #FFFFFF;
+  }
+  
+  .nav-link:hover {
+    color: #00FFFF !important;
+  }
+  
+  .btn-info:hover {
+    background-color: #FF00FF !important;
+    color: #FFFFFF !important;
+  }
+ 
